@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 readme stats: https://github.com/anuraghazra/github-readme-stats
+badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
