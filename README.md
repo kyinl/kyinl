@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 readme stats: https://github.com/anuraghazra/github-readme-stats
 badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
+awesome-profile-readme-templates: https://github.com/kautukkundan/Awesome-Profile-README-templates/tree/master/code-styled
+https://shields.io/
 -->
